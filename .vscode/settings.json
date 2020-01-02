@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/25c115e6-b284-445b-951e-d37b047507a2/resourceGroups/myBot-rg/providers/Microsoft.Web/sites/tvpt-chatbot-1",
+    "appService.deploySubpath": ""
+}
